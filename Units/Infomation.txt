@@ -1,0 +1,14 @@
+[Infomation]
+
+[Units Range From Level 1 - 10]
+[Each Level Is Like A Tier, You Can Evolve Level 1's But They Will Always be level 1]
+[Each Player Has A Team Cost, If you break them you get banned]
+[Level 10's have the highest team cost, Ranging from 100 - 200 per Unit, They also have powerful attacks]
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
